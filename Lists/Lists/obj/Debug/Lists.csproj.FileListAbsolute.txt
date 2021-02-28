@@ -1,0 +1,6 @@
+/Users/juanrodriguez/Projects/Lists/Lists/bin/Debug/Lists.exe
+/Users/juanrodriguez/Projects/Lists/Lists/bin/Debug/Lists.pdb
+/Users/juanrodriguez/Projects/Lists/Lists/obj/Debug/Lists.csprojAssemblyReference.cache
+/Users/juanrodriguez/Projects/Lists/Lists/obj/Debug/Lists.csproj.CoreCompileInputs.cache
+/Users/juanrodriguez/Projects/Lists/Lists/obj/Debug/Lists.exe
+/Users/juanrodriguez/Projects/Lists/Lists/obj/Debug/Lists.pdb
